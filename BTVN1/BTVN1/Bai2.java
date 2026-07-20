@@ -29,6 +29,6 @@ public class Bai2 {
         } else {
             System.out.println("Khong phai la mot tam giac");
         }
-
+        scanner.close();
     }
 }
